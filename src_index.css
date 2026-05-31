@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Poppins", system-ui, -apple-system, sans-serif;
+  --font-display: "Poppins", "Inter", system-ui, sans-serif;
+}
+
+/* Premium Light Sky-Blue Modern UI Theme Styles */
+.premium-gradient {
+  background: linear-gradient(135deg, #3FA9FF 0%, #00D5FF 100%);
+}
+
+.premium-gradient-hover {
+  background: linear-gradient(135deg, #1F96FF 0%, #00C4EB 100%);
+}
+
+.sky-gradient-soft {
+  background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%);
+}
+
+.mint-gradient-soft {
+  background: linear-gradient(135deg, #F0FDF4 0%, #DCFCE7 100%);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(224, 242, 254, 0.65);
+}
+
+.glow-sky {
+  box-shadow: 0 10px 30px -5px rgba(63, 169, 255, 0.18);
+}
+
+.glow-mint {
+  box-shadow: 0 10px 30px -5px rgba(16, 185, 129, 0.12);
+}
+
+.premium-shadow {
+  box-shadow: 0 4px 20px -2px rgba(110, 198, 255, 0.08), 0 10px 30px -5px rgba(224, 242, 254, 0.35);
+}
+
+.premium-shadow-hover {
+  box-shadow: 0 10px 25px -3px rgba(110, 198, 255, 0.15), 0 20px 40px -5px rgba(224, 242, 254, 0.5);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E0F2FE;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #BAE6FD;
+}
+
+/* Animations variables if needed */
+@keyframes float {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-8px) rotate(1deg); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cal_1",
+    "title": "Commencement of B.Tech Odd Semester Classwork",
+    "date": "2026-06-08",
+    "type": "Semester Start",
+    "description": "Registration and commencement of regular classwork for B.Tech III, V & VII Semesters.",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "cal_2",
+    "title": "Project Synopsis Submission & Review I",
+    "date": "2026-06-25",
+    "type": "Project Review",
+    "description": "Initial presentation of project abstracts and coordinator allocations for final year projects.",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "cal_3",
+    "title": "Bakrid (Eid al-Adha) Holiday",
+    "date": "2026-06-29",
+    "type": "Holiday",
+    "description": "Declared public holiday; college operations remain closed.",
+    "department": "Hostel & Admin"
+  },
+  {
+    "id": "cal_4",
+    "title": "Orientation & Course Plan Distribution",
+    "date": "2026-06-12",
+    "type": "Semester Start",
+    "description": "Distribution of detailed syllabus course files and lecture outlines by departmental coordinators.",
+    "department": "Academics"
+  },
+  {
+    "id": "cal_5",
+    "title": "First Internal Mid-Term Examinations",
+    "date": "2026-07-15",
+    "type": "Mid Exams",
+    "description": "Descriptive and objective internal mid-examinations covering Units I & II.",
+    "department": "Examination Branch"
+  },
+  {
+    "id": "cal_6",
+    "title": "Ashura / Moharram Holiday",
+    "date": "2026-07-28",
+    "type": "Holiday",
+    "description": "Public holiday; campus closed.",
+    "department": "Admin"
+  },
+  {
+    "id": "cal_7",
+    "title": "Mid-Semester Project Review II",
+    "date": "2026-08-05",
+    "type": "Project Review",
+    "description": "Evaluation of database models, circuit design schematic sheets, and software UI drafts.",
+    "department": "Academics"
+  },
+  {
+    "id": "cal_8",
+    "title": "Independence Day Celebrations",
+    "date": "2026-08-15",
+    "type": "Holiday",
+    "description": "National festival celebration; flag hoisting ceremony at Block-A lawn starting 8:30 AM.",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "cal_9",
+    "title": "Varalakshmi Vratam Holiday",
+    "date": "2026-08-28",
+    "type": "Holiday",
+    "description": "Declared sectional holiday for students and staff.",
+    "department": "Admin"
+  },
+  {
+    "id": "cal_10",
+    "title": "Sri Krishna Janmashtami Holiday",
+    "date": "2026-09-04",
+    "type": "Holiday",
+    "description": "Declared festival holiday.",
+    "department": "Admin"
+  },
+  {
+    "id": "cal_11",
+    "title": "Second Internal Mid-Term Examinations",
+    "date": "2026-09-14",
+    "type": "Mid Exams",
+    "description": "Descriptive internal evaluations covering Units III & IV.",
+    "department": "Examination Branch"
+  },
+  {
+    "id": "cal_12",
+    "title": "Ganesh Chaturthi Holiday",
+    "date": "2026-09-17",
+    "type": "Holiday",
+    "description": "Declared festive holiday; campus operations closed.",
+    "department": "Admin"
+  },
+  {
+    "id": "cal_13",
+    "title": "Milad-un-Nabi Holiday",
+    "date": "2026-09-21",
+    "type": "Holiday",
+    "description": "Declared public holiday.",
+    "department": "Admin"
+  },
+  {
+    "id": "cal_14",
+    "title": "Pre-Final Project Demo Review III",
+    "date": "2026-10-08",
+    "type": "Project Review",
+    "description": "Mandatory showcase of working system prototype, validation metrics testing, and draft report file.",
+    "department": "Academics"
+  },
+  {
+    "id": "cal_15",
+    "title": "Dussehra Vacation / Puja Holidays",
+    "date": "2026-10-19",
+    "type": "Holiday",
+    "description": "Festival vacation period from Oct 19 to Oct 25. Hostel mess will run on limited hours.",
+    "department": "Hostel & Admin"
+  },
+  {
+    "id": "cal_16",
+    "title": "Diwali (Deepavali) Festival Holiday",
+    "date": "2026-11-09",
+    "type": "Holiday",
+    "description": "Festival of lights holiday; campus closed.",
+    "department": "Admin"
+  },
+  {
+    "id": "cal_17",
+    "title": "University Practical Lab End Examinations",
+    "date": "2026-11-16",
+    "type": "Lab Exams",
+    "description": "External practical laboratory evaluations, viva-voce assessments, and record file submissions.",
+    "department": "Examination Branch"
+  },
+  {
+    "id": "cal_18",
+    "title": "Preparation Holidays for End Semester Exams",
+    "date": "2026-11-23",
+    "type": "Semester Start",
+    "description": "No regular classes; study holidays for end semester theory papers preparation.",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "cal_19",
+    "title": "University End-Semester Theory Examinations",
+    "date": "2026-12-02",
+    "type": "End Exams",
+    "description": "Regular university examinations for B.Tech III, V, VII Semesters theory papers.",
+    "department": "Examination Branch"
+  },
+  {
+    "id": "cal_20",
+    "title": "Christmas Festival Holiday",
+    "date": "2026-12-25",
+    "type": "Holiday",
+    "description": "Public holiday; campus closed.",
+    "department": "Admin"
+  }
+]
