@@ -68,7 +68,6 @@ The matching pipeline executes the following mathematical sequence for every que
 
 ### Option A: Running the React + Node.js Application (Recommended)
 
-This compiles and runs the exact responsive application displayed in your AI Studio preview iframe.
 
 #### Prerequisites
 - Download and install [Node.js (v18 or higher)](https://nodejs.org/)
